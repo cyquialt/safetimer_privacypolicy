@@ -26,7 +26,7 @@ Lien vers la politique de confidentialité des fournisseurs de services tiers ut
 
 Je souhaite vous informer que, chaque fois que vous utilisez mon service, en cas d'erreur dans l'application, je collecte des données et des informations (via des produits tiers) sur votre téléphone, appelées Données journal. Ces données de journal peuvent inclure des informations telles que l'adresse de protocole Internet («IP») de votre appareil, le nom de l'appareil, la version du système d'exploitation, la configuration de l'application lors de l'utilisation de mon service, l'heure et la date de votre utilisation du service et d'autres statistiques. .
 
-## Biscuits
+## Cookies
 
 Les cookies sont des fichiers contenant une petite quantité de données qui sont couramment utilisés comme identificateurs uniques anonymes. Ceux-ci sont envoyés à votre navigateur à partir des sites Web que vous visitez et sont stockés dans la mémoire interne de votre appareil.
 
@@ -49,7 +49,7 @@ J'apprécie votre confiance dans la fourniture de vos informations personnelles.
 
 Ce service peut contenir des liens vers d'autres sites (google maps). Si vous cliquez sur un lien tiers, vous serez dirigé vers ce site. Notez que ces sites externes ne sont pas exploités par moi. Par conséquent, je vous conseille vivement de consulter la politique de confidentialité de ces sites Web. Je n'ai aucun contrôle sur le contenu, les politiques de confidentialité ou les pratiques des sites ou services tiers, et n'assume aucune responsabilité à leur égard.
 
-## Privacy’s Children
+## Protection des enfants
 
 Cette application ne s'adresse pas particulièrement a des utiliateurs de moins de 13 ans.
 Je ne collecte pas sciemment d'informations personnelles concernant des enfants de moins de 13 ans.
