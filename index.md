@@ -1,5 +1,5 @@
-![Consult in English](images/uk.png)(en.md)
-![Voir en français](images/fr.png)(index.md)
+[![Consult in English](images/uk.png)](en.md)
+[![Voir en français](images/fr.png)](index.md)
 
 # Politique de confidentialité
 
