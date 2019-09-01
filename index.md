@@ -1,60 +1,57 @@
-# Privacy Policy
+[![Consult in English](images/uk.png)](en.md)
+[![Voir en français](images/fr.png)](index.md)
 
-Cyril Quintin built the safetimer app as a Free app. This SERVICE is provided by Cyril Quintin at no cost and is intended for use as is.
+# Politique de confidentialité
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+Cyril Quintin a construit l'application Safetimer en tant qu'application gratuite. Ce SERVICE est fourni gratuitement par Cyril Quintin et est destiné à être utilisé tel quel.
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+Cette page est utilisée pour informer les visiteurs sur mes politiques en matière de collecte, d'utilisation et de divulgation d'informations personnelles si quelqu'un décide d'utiliser mon service.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at safetimer unless otherwise defined in this Privacy Policy.
+Si vous choisissez d'utiliser mon service, vous acceptez la collecte et l'utilisation d'informations relatives à cette politique. Les informations personnelles que je collecte sont utilisées pour fournir et améliorer le service. Je n'utiliserai ni ne partagerai vos informations avec qui que ce soit, sauf dans les cas décrits dans la présente politique de confidentialité.
 
-## Information Collection and Use
+Les termes utilisés dans la présente politique de confidentialité ont les mêmes significations que dans nos conditions générales, qui sont accessibles à safetimer sauf indication contraire dans la présente politique de confidentialité.
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to First name, Last email, email. The information that I request will be retained on your device and is not collected by me in any way.
+## Collecte et utilisation d'informations
 
-The app does use third party services that may collect information used to identify you.
+Pour une meilleure expérience, lors de l'utilisation de notre service, il se peut que je vous demande de nous fournir certaines informations personnellement identifiables, incluant notamment mais non limité à votre nom et prénom, et votre email. Les informations que je demande seront conservées sur votre appareil et peuvent être envoyé au contact de confiance que vous avez designé. Ces informations ne seront en aucun cas collectées par moi.
 
-Link to privacy policy of third party service providers used by the app
+L'application utilise des services tiers pouvant collecter des informations permettant de vous identifier.
 
-* [Google Play Services](https://www.google.com/policies/privacy/)
-* [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+Lien vers la politique de confidentialité des fournisseurs de services tiers utilisés par l'application
 
-## Log Data
+* [Services Google Play] (https://www.google.com/policies/privacy/)
+* [AdMob] (https://support.google.com/admob/answer/6128543?hl=fr)
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+## Données du journal
 
-## Cookies
+Je souhaite vous informer que, chaque fois que vous utilisez mon service, en cas d'erreur dans l'application, je collecte des données et des informations (via des produits tiers) sur votre téléphone, appelées Données journal. Ces données de journal peuvent inclure des informations telles que l'adresse de protocole Internet («IP») de votre appareil, le nom de l'appareil, la version du système d'exploitation, la configuration de l'application lors de l'utilisation de mon service, l'heure et la date de votre utilisation du service et d'autres statistiques. .
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+## Biscuits
 
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+Les cookies sont des fichiers contenant une petite quantité de données qui sont couramment utilisés comme identificateurs uniques anonymes. Ceux-ci sont envoyés à votre navigateur à partir des sites Web que vous visitez et sont stockés dans la mémoire interne de votre appareil.
 
-## Service Providers
+Ce service n'utilise pas ces «cookies» de manière explicite. Toutefois, l'application peut utiliser du code tiers et des bibliothèques qui utilisent des «cookies» pour collecter des informations et améliorer leurs services. Vous avez le choix d'accepter ou de refuser ces cookies et de savoir quand un cookie est envoyé sur votre appareil. Si vous choisissez de refuser nos cookies, vous ne pourrez peut-être pas utiliser certaines parties de ce service.
 
-I may employ third-party companies and individuals due to the following reasons:
+## Les fournisseurs de services
 
-To facilitate our Service;
-To provide the Service on our behalf;
-To perform Service-related services; or
-To assist us in analyzing how our Service is used.
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+Je peux employer des sociétés tierces et des particuliers pour les raisons suivantes:
 
-## Security
+Pour faciliter notre service;
+Pour nous aider à analyser la manière dont notre service est utilisé.
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+Je souhaite informer les utilisateurs de ce service que ces tiers ont accès à vos informations personnelles. La raison est d'accomplir les tâches qui leur sont assignées en notre nom. Cependant, ils sont obligés de ne pas divulguer ni utiliser les informations à d'autres fins.
 
-## Links to Other Sites
+## Sécurité
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+J'apprécie votre confiance dans la fourniture de vos informations personnelles. Nous nous efforçons donc d'utiliser des moyens de protection commercialement acceptables. Mais rappelez-vous qu’aucune méthode de transmission sur Internet ou de stockage électronique n’est sécurisée et fiable à 100%, et je ne peux garantir sa sécurité absolue.
 
-## Children’s Privacy
+## Liens vers d'autres sites
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+Ce service peut contenir des liens vers d'autres sites (google maps). Si vous cliquez sur un lien tiers, vous serez dirigé vers ce site. Notez que ces sites externes ne sont pas exploités par moi. Par conséquent, je vous conseille vivement de consulter la politique de confidentialité de ces sites Web. Je n'ai aucun contrôle sur le contenu, les politiques de confidentialité ou les pratiques des sites ou services tiers, et n'assume aucune responsabilité à leur égard.
 
-## Changes to This Privacy Policy
+## Privacy’s Children
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
-
-## Contact Us
-
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at cyril.quintin.pro@gmail.com.
+Cette application ne s'adresse pas particulièrement a des utiliateurs de moins de 13 ans.
+Je ne collecte pas sciemment d'informations personnelles concernant des enfants de moins de 13 ans.
+Si je découvre qu'un enfant de moins de 13 ans m'a fourni des informations personnelles, je les supprime immédiatement de nos serveurs.
+Si vous êtes un parent ou un tuteur et que vous savez que votre enfant nous a fournit des informations personnelles, veuillez me contacter afin que je puisse effectuer les actions de suppressions nécessaires.
